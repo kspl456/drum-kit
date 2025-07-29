@@ -40,5 +40,5 @@ Press any key from **A to L** or click on the boxes to play different drum sound
 
 ## 🙏 Acknowledgements
 
-This project is based on the **[JavaScript30](https://javascript30.com/)** course by [Wes Bos](https://github.com/wesbos/JavaScript30).  
+This project is based on the **[JavaScript30](https://github.com/wesbos/JavaScript30)** course by [Wes Bos](https://javascript30.com/).  
 I built it as a learning exercise to improve my JavaScript fundamentals.
