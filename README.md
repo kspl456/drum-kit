@@ -14,7 +14,7 @@ Press any key from **A to L** or click on the boxes to play different drum sound
 
 ## 🚀 Live Demo
 
-👉 [Click here to try it live](https://your-github-username.github.io/your-repo-name/)  
+👉 [Click here to try it live](https://kspl456.github.io/drum-kit/)  
 *(Replace the link with your actual GitHub Pages link if deployed)*
 
 ---
